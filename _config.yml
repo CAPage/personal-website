@@ -1,0 +1,26 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Charlie Ann Page
+email: me@charlieannpage.co.uk
+description: > # this means to ignore newlines until "baseurl:"
+  Charlie Ann Page is a PhD researcher at the University of Bath in electronic institutions and normative reasoning. She also teaches, is involved in game development, and tweets a lot about devolution law in the UK.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://charlieannpage.co.uk" # the base hostname & protocol for your site
+twitter_username: C_A__Page
+github_username:  capage
+
+# Build settings
+markdown: kramdown
+
+header_pages:
+- index.md
+- Projects.md
+- Teaching.md
+- CV.md
+- Contact.md
