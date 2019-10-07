@@ -9,7 +9,7 @@
 title: Charlie Ann Page
 email: me@charlieannpage.co.uk
 description: > # this means to ignore newlines until "baseurl:"
-  Charlie Ann Page is a PhD researcher at the University of Bath in electronic institutions and normative reasoning. She also teaches, is involved in game development, and tweets a lot about devolution law in the UK.
+  Charlie Ann Page is an educator, academic, researcher, and developer based in Bath. She is also a Level 2 Magic the Gathering judge. She works on a wide variety of projects as a freelancer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://charlieannpage.co.uk" # the base hostname & protocol for your site
 twitter_username: C_A__Page

@@ -17,4 +17,6 @@ In the context of:
 * Building something, and/or
 * Researching.
 
+(Or, if you want me to judge your Magic: the Gathering event.)
+
 Then get in [contact](Contact.html)!
