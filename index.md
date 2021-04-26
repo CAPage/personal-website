@@ -4,11 +4,15 @@ title: Home
 order: 10
 ---
 
+Hi, I'm Charlie Ann. I work as a consultant and freelancer through my company, Another Feather Limited, in a wide range of loosely Computer Science related fields:
+* Teaching
+* E-Learning
+* Modelling & Simulation
+* Games
+* AI
 
-Hi, I'm Charlie Ann. I am:
-* A freelance instructor, trainer, TA, and lecturer in Computer Science.
-* A game developer. A game I have worked on - Bot Party - was a finalist for the alt.ctrl.GDC IGF award in 2018.
-* A Level 2 Magic: the Gathering Judge.
-* A PhD researcher. I work in integrating electronic institutions into multi-agent systems (at scale), and run-time norm change. I'm currently based at the University of Bath.
+I'm currently working on finishing my PhD, on institutional self-governance in multi-agent systems, in the Computer Science department of the University of Bath.
 
-For more information about the projects I have been and am involved in, how to find me on other platforms, and a CV, see the tabs above.
+I enjoy interesting new challenges, projects, and research from a huge array of fields, often blending computer science with the social sciences or philosophy.
+
+If you're interested in working with me, or just want to see what I've been working on, look at the pages in the tabs above. To get in contact with me, see my [Contact Page](Contact).

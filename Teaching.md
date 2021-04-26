@@ -1,14 +1,17 @@
 ---
 layout: page
 title: Teaching
-order: 30
+order: 20
 ---
 
-## Freelance Instruction and Training
+I began teaching at the beginning of my PhD in the Department of Computer Science at the University of Bath. This work involved lab and lecture based teaching, one-to-one and group work, and - occasionally - course design and material development. The courses I taught at Bath were:
+* Artificial Intelligence
+* Programming 1 & 2
+* Intelligent Agents
+* Software Engineering
 
-I am a freelance instructor for Computer Science and Software Engineering related topics. I have worked in teaching a wide-range of topics, including broad multi-disciplinary courses.
+Since then, I have also undertaken corporate training work. This work is largely for one client, facilitating an annual well-regarded long-form graduate course for a corporation in the S&P 100. I have delivered this course as part of a team both in person in London and online.
 
-## University of Bath
+Education is my primary passion, and I'm available to design and deliver courses on a variety of different computer science topics on a consultancy basis for corporations and universities. 
 
-# Roles
-During the course of my PhD, I have taught on a number of modules at the University of Bath. My work on these modules has varied from just being a lab demonstrator to designing and delivering entire portions of modules. 
+If you have a course you need designing or delivering on a consultancy basis, see my [Contact Page](Contact) and email my work email.
