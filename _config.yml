@@ -8,8 +8,7 @@
 # Site settings
 title: Charlie Ann Page
 email: me@charlieannpage.co.uk
-description: > # this means to ignore newlines until "baseurl:"
-Charlie Ann Page is a consultant and freelancer. She has a broad range of skills, including in education and training, AI, modelling & simulation, and game design and development. She trades through her limited company, Another Feather Limited.
+description: Charlie Ann Page is a consultant and freelancer. She has a broad range of skills, including in education and training, AI, modelling & simulation, and game design and development. She trades through her limited company, Another Feather Limited.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://charlieannpage.co.uk" # the base hostname & protocol for your site
 twitter_username: C_A__Page
