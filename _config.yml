@@ -8,19 +8,12 @@
 # Site settings
 title: Charlie Ann Page
 email: me@charlieannpage.co.uk
-description: Charlie Ann Page is a consultant and freelancer. She has a broad range of skills, including in education and training, AI, modelling & simulation, and game design and development. She trades through her limited company, Another Feather Limited.
+description: Charlie Ann Page's website. Watch this space.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://charlieannpage.co.uk" # the base hostname & protocol for your site
-twitter_username: C_A__Page
 
 # Build settings
 markdown: kramdown
 
 header_pages:
 - index.md
-- teaching.md
-- elearning.md
-- simulation.md
-- games.md
-- ai.md
-- Contact.md
